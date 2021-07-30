@@ -1,0 +1,19 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[128.54880989369863,38.30195082056222],[127.13073465816848,38.30086456822712],[127.80386893710852,37.431954042332535],[128.70040363357757,37.04082747869684],[129.35527819347075,37.23505980402563],[128.54880989369863,38.30195082056222]]]},"properties":{"CTPRVN_CD":"42","CTP_ENG_NM":"Gangwon-do","CTP_KOR_NM":"강원도"}},
+{"type":"Feature","geometry":{"type":"MultiPolygon","coordinates":[]},"properties":{"CTPRVN_CD":"41","CTP_ENG_NM":"Gyeonggi-do","CTP_KOR_NM":"경기도"}},
+{"type":"Feature","geometry":null,"properties":{"CTPRVN_CD":"48","CTP_ENG_NM":"Gyeongsangnam-do","CTP_KOR_NM":"경상남도"}},
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[129.57892488010953,36.0517577657585],[129.42701269345193,37.063661763436635],[127.95697271782487,36.73558958212386],[127.8931383860829,35.887079865702724],[128.7581355730638,35.56749333769399],[129.57892488010953,36.0517577657585]]]},"properties":{"CTPRVN_CD":"47","CTP_ENG_NM":"Gyeongsangbuk-do","CTP_KOR_NM":"경상북도"}},
+{"type":"Feature","geometry":null,"properties":{"CTPRVN_CD":"29","CTP_ENG_NM":"Gwangju","CTP_KOR_NM":"광주광역시"}},
+{"type":"Feature","geometry":null,"properties":{"CTPRVN_CD":"27","CTP_ENG_NM":"Daegu","CTP_KOR_NM":"대구광역시"}},
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[127.40329201633055,36.48440604148222],[127.39614094465637,36.491708392087254],[127.49257720191127,36.23795395046083],[127.51305690920277,36.347482820683425],[127.51728257032157,36.34801324008438],[127.53742885083223,36.394948224840874],[127.54465989723226,36.39615859617182],[127.54607086354923,36.40864611210217],[127.54183912236022,36.415687571113814],[127.40416267740487,36.477509602321526],[127.40329201633055,36.48440604148222]]]},"properties":{"CTPRVN_CD":"30","CTP_ENG_NM":"Daejeon","CTP_KOR_NM":"대전광역시"}},
+{"type":"Feature","geometry":null,"properties":{"CTPRVN_CD":"26","CTP_ENG_NM":"Busan","CTP_KOR_NM":"부산광역시"}},
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[127.15738637743047,37.48999210137285],[127.12839639659919,37.46835582940525],[127.14352658768853,37.47393041836933],[127.15550457562023,37.487993259331965],[127.15738637743047,37.48999210137285]]]},"properties":{"CTPRVN_CD":"11","CTP_ENG_NM":"Seoul","CTP_KOR_NM":"서울특별시"}},
+{"type":"Feature","geometry":null,"properties":{"CTPRVN_CD":"36","CTP_ENG_NM":"Sejong-si","CTP_KOR_NM":"세종특별자치시"}},
+{"type":"Feature","geometry":null,"properties":{"CTPRVN_CD":"31","CTP_ENG_NM":"Ulsan","CTP_KOR_NM":"울산광역시"}},
+{"type":"Feature","geometry":null,"properties":{"CTPRVN_CD":"28","CTP_ENG_NM":"Incheon","CTP_KOR_NM":"인천광역시"}},
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[126.30728229844274,34.7478182867543],[126.52710427393134,34.33512436097375],[127.78484109250063,35.020935262636065],[126.76490267806622,35.46705821727812],[126.30728229844274,34.7478182867543]]]},"properties":{"CTPRVN_CD":"46","CTP_ENG_NM":"Jellanam-do","CTP_KOR_NM":"전라남도"}},
+{"type":"Feature","geometry":null,"properties":{"CTPRVN_CD":"45","CTP_ENG_NM":"Jeollabuk-do","CTP_KOR_NM":"전라북도"}},
+{"type":"Feature","geometry":null,"properties":{"CTPRVN_CD":"50","CTP_ENG_NM":"Jeju-do","CTP_KOR_NM":"제주특별자치도"}},
+{"type":"Feature","geometry":null,"properties":{"CTPRVN_CD":"44","CTP_ENG_NM":"Chungcheongnam-do","CTP_KOR_NM":"충청남도"}},
+{"type":"Feature","geometry":{"type":"MultiPolygon","coordinates":[]},"properties":{"CTPRVN_CD":"43","CTP_ENG_NM":"Chungcheongbuk-do","CTP_KOR_NM":"충청북도"}}
+]}
